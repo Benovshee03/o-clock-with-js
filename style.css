@@ -85,6 +85,7 @@ span{
     border-radius: 5px 5px 0px 0px;
     transform: translateY(-50%) ;
     z-index: -2;
+    /* transform: rotate(30deg) translateY(-50%); */
 }
 .hour{
     width: 3px;
